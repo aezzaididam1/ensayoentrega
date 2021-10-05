@@ -1,8 +1,8 @@
 
 /**
- *  Descripción de un estudiante
+ *  Descripción del estudiante
  * 
- * @author - Montse 
+ * @author - Montse
  *  
  */
 public class Estudiante
